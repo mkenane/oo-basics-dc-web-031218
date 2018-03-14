@@ -13,6 +13,6 @@ def cobble
   @condition = "new"
 end 
 
-def 
+end 
 
 
